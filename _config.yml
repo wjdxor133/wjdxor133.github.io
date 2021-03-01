@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
+title: 개발 블로그 # your site title
 author: wjdxor133 # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -21,19 +21,19 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - { name: "Home", link: "/" }
+  - { name: "About", link: "/about" }
+  - { name: "Contact", link: "/contact" }
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Web Frontend Development
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  wjdxor133 # replace with your_github_username or comment to remove link from footer
+github_username: wjdxor133 # replace with your_github_username or comment to remove link from footer
 instagram_username: taek2 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
@@ -60,7 +60,7 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-include: ['_pages']
+include: ["_pages"]
 permalink: /:title/
 
 compress_html:
@@ -69,3 +69,5 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+theme: jekyll-sleek
