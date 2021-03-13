@@ -435,7 +435,7 @@ pre > code {
   border-bottom: 0;
 }
 .header__logo .header__logo--container {
-  width: 58px;
+  /* width: 58px; */
 }
 .header__logo .header__logo--container .logo {
   fill: currentColor;
@@ -709,13 +709,13 @@ button:disabled :focus {
   transition: -webkit-box-shadow 0.25s ease;
   transition: box-shadow 0.25s ease;
   transition: box-shadow 0.25s ease, -webkit-box-shadow 0.25s ease;
+  transition: all ease 0.35s;
 }
 .post-card:hover,
 .post-card:focus {
   border-bottom: 0;
   -webkit-box-shadow: 0 2px 40px 0 rgba(153, 155, 168, 0.3);
   box-shadow: 0 2px 40px 0 rgba(153, 155, 168, 0.3);
-  transition: all ease 0.35s;
   transform: scale(1.05);
 }
 @media only screen and (min-width: 48em) {
@@ -1222,12 +1222,12 @@ table td {
 .hero {
   margin: 3.75rem auto 0;
   min-height: 16.25rem;
-  width: 100%;
+  width: 75%;
   position: relative;
   background-color: #dde5ea;
   background-repeat: no-repeat;
   background-position: 50%;
-  background-size: cover;
+  /* background-size: cover; */
 }
 @media only screen and (min-width: 62em) {
   .hero {
