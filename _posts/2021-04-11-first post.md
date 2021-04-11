@@ -9,7 +9,7 @@ categories: [회고]
 
 처음 블로그를 시작했을 무렵, 평소에 나는 공부한 내용들을 단순히 기록하는 용도로만 사용했었다.
 
-기술 블로그 플랫폼으로는 수많은 플랫폼 중에서 [티스토리](https://www.tistory.com/)라는 플랫폼을 통해 블로그를 관리해왔다.
+수많은 플랫폼 중에서 [티스토리](https://www.tistory.com/)라는 플랫폼을 통해 나만의 기술 블로그를 관리해왔다.
 
 <div align="center">
     <img src="./img/../../assets/img/posts/2021-04-11/tistory.jpg" alt="티스토리" style="width: 400px;"/>
