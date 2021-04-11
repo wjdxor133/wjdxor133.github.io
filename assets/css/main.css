@@ -237,11 +237,14 @@ figure {
 }
 body {
   background-color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+/*   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei",
-    "WenQuanYi Micro Hei", sans-serif;
+    "WenQuanYi Micro Hei", sans-serif; */
+/*   font-family: 'Spoqa Han Sans Neo', 'sans-serif';  */
+  font-family: 'NanumSquareRound', Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
+  font-weight: 400;
   color: #343851;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
