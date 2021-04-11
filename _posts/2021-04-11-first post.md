@@ -12,7 +12,7 @@ categories: [회고]
 기술 블로그 플랫폼으로는 수많은 플랫폼 중에서 [티스토리](https://www.tistory.com/)라는 플랫폼을 통해 블로그를 관리해왔다.
 
 <div align="center">
-    <img src="./img/../../assets/img/posts/2021-04-11/tistory.jpg" alt="티스토리" width="500px" height="300px"/>
+    <img src="./img/../../assets/img/posts/2021-04-11/tistory.jpg" alt="티스토리" style="width: 400px;"/>
 </div>
 
 <!-- ![티스토리](https://user-images.githubusercontent.com/47416686/114289600-478ac680-9ab4-11eb-934c-7c302a7eb1e1.jpeg){height=400px width=500px} -->
@@ -60,7 +60,7 @@ categories: [회고]
 <br />
 
 <div align="center">
-    <img src="./img/../../assets/img/posts/2021-04-11/github.png" alt="깃허브" width="400px" height="300px" />
+    <img src="./img/../../assets/img/posts/2021-04-11/github.png" alt="깃허브" style="width: 300px;" />
 </div>
 
 <!-- ![github](https://user-images.githubusercontent.com/47416686/114289641-9a647e00-9ab4-11eb-9014-b7656630a48e.png) -->
@@ -100,7 +100,7 @@ categories: [회고]
 
 <br />
 <div align="center">
-    <img src="./img/../../assets/img/posts/2021-04-11/socrates.jpg" alt="개발자" width="400px" height="300px" />
+    <img src="./img/../../assets/img/posts/2021-04-11/socrates.jpg" alt="개발자" style="width: 400px;" />
 </div>
 <br />
 
@@ -122,7 +122,7 @@ categories: [회고]
 
 <br/>
 <div align="center">
-    <img src="./img/../../assets/img/posts/2021-04-11/developer.gif" alt="개발자" width="400px" height="300px" />
+    <img src="./img/../../assets/img/posts/2021-04-11/developer.gif" alt="개발자" style="width: 400px;" />
 </div>
 <br/>
 
@@ -217,7 +217,7 @@ categories: [회고]
 <br />
 
 <div align="center">
-    <img src="./img/../../assets/img/posts/2021-04-11/flowerLoad.gif" alt="꽃길" width="400px" height="400px"/>
+    <img src="./img/../../assets/img/posts/2021-04-11/flowerLoad.gif" alt="꽃길" style="width:400px;"/>
 </div>
 
-<!-- ![꽃길](https://user-images.githubusercontent.com/47416686/114289677-d992cf00-9ab4-11eb-91d2-c0ba42c198bb.gif) -->
+<br />
