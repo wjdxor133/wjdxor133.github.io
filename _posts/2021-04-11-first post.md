@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "기술 블로그를 새롭게 시작하며..(feat 자아성찰)"
-featured-img: emile-perron-190221
+featured-img: woosung_lg
 categories: [회고]
 ---
 
