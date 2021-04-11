@@ -214,10 +214,8 @@ categories: [회고]
 
 그게 무엇이 던 간에 그 순간을 만족하며 즐기고 싶다.
 
-<br />
-
 <div align="center">
     <img src="./img/../../assets/img/posts/2021-04-11/flowerLoad.gif" alt="꽃길" width="400px" height="400px"/>
 </div>
 
-<!-- ![꽃길](https://user-images.githubusercontent.com/47416686/114289677-d992cf00-9ab4-11eb-91d2-c0ba42c198bb.gif) -->
+<br />
