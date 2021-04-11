@@ -129,7 +129,7 @@ var precacheConfig = [
     "cd58fd23f3b3c1de2183beb9ed08327b",
   ],
   ["/assets/img/posts/sleek.jpg", "a32252a618ffe8ae57c9ce9ab157a01b"],
-  ["/assets/img/posts/woosung_lg.jpg", "95a1338aa524727f34950f269133e904"],
+  ["/assets/img/posts/woosung_lg.png", "95a1338aa524727f34950f269133e904"],
   ["/assets/img/posts/sleek_md.jpg", "4e35ceb2f5fffd3d758fade699b0b85a"],
   ["/assets/img/posts/sleek_placehold.jpg", "0f48050cd7776895b98c6ce21597ff39"],
   ["/assets/img/posts/sleek_sm.jpg", "f30af3d30b7df905d962e494750f5da0"],

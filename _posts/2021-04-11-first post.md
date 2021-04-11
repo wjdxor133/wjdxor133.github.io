@@ -1,27 +1,29 @@
 ---
 layout: post
-title: "2021-04-11-기술 블로그를 새롭게 시작하며..(feat 자아성찰)"
-featured-img: ![undraw_Blog_post_re_fy5x](https://user-images.githubusercontent.com/47416686/114289733-2080c480-9ab5-11eb-823a-3c4f5033dacb.png)
+title: "기술 블로그를 새롭게 시작하며..(feat 자아성찰)"
+featured-img: woosung_lg
 categories: [회고]
 ---
 
-## 내가 블로그를 새롭게 시작하는 이유
+# 내가 블로그를 새롭게 시작하는 이유
 
 처음 블로그를 시작했을 무렵, 평소에 나는 공부한 내용들을 단순히 기록하는 용도로만 사용했었다.
 
-기술 블로그 플랫폼으로는 수많은 플랫폼 중에서 `**[티스토리](https://www.tistory.com/)**`라는 플랫폼을 통해 블로그를 관리해왔다.
+기술 블로그 플랫폼으로는 수많은 플랫폼 중에서 [티스토리](https://www.tistory.com/)라는 플랫폼을 통해 블로그를 관리해왔다.
 
-![티스토리](https://user-images.githubusercontent.com/47416686/114289600-478ac680-9ab4-11eb-934c-7c302a7eb1e1.jpeg)
+<div align="center">
+    <img src="./img/../../assets/img/posts/2021-04-11/tistory.jpg" alt="티스토리" width="500px" height="300px"/>
+</div>
 
-### 그런데 왜 이 티스토리 블로그를 놔두고 갑자기 새롭게 기술 블로그를 시작해야 했는가..?
+<!-- ![티스토리](https://user-images.githubusercontent.com/47416686/114289600-478ac680-9ab4-11eb-934c-7c302a7eb1e1.jpeg){height=400px width=500px} -->
+
+## 그런데 왜 이 티스토리 블로그를 놔두고 갑자기 새롭게 기술 블로그를 시작해야 했는가..?
 
 이 부분에 대해서 의아해 할 수 있다.
 
-이유는 바로 `**내가 성장하고 있다는 스스로의 착각**`에서 벗어나고 싶어서이다.
+이유는 바로 <strong>`내가 성장하고 있다는 스스로의 착각`</strong> 에서 벗어나고 싶어서이다.
 
 ### 착각...? 갑자기...?
-
-![절규](https://user-images.githubusercontent.com/47416686/114289617-65f0c200-9ab4-11eb-801e-661886741b6f.gif)
 
 ### 이게 과연 무슨 말인가..?
 
@@ -35,7 +37,7 @@ categories: [회고]
 
 나는 단순히 공부한 내용만 기록하는 기술 블로그를 운영하고 있었고, 게시글들이 점차 많아지면서 나는 무언가 많은 공부를 하고 있다고 내 스스로가 착각하고 있었다.
 
-이건 마치 `**나 자신에게 오늘 공부했으니까 너는 정말 잘하고 있어!**`라고 안심을 시켜주는 것 같았다.
+이건 마치 <strong>`나 자신에게 오늘 공부했으니까 너는 정말 잘하고 있어!`</strong>라고 안심을 시켜주는 것 같았다.
 
 그렇게 점점 게시글들은 점점 많아지는 있었고, 실제로 내가 올린 게시글 중에 정확히 안다고 말할 수 있는 게 과연 몇이나 될까..?라는 의문을 가지게 되었다.
 
@@ -43,18 +45,27 @@ categories: [회고]
 
 안타깝지만 나는 정말로 많은 변화가 필요했다.
 
-이게 바로 내가 기술 블로그를 다시 시작하는 가장 큰 이유이다.
+이게 바로 <strong>`내가 기술 블로그를 다시 시작하는 가장 큰 이유`</strong>이다.
 
 이제부터 나는 기술 블로그를 작성할 때, 단순히 기록하는 글이 아니라 공부해서 정리한 내용을 어느 정도 이해했다는 가정하에 남에게 설명하듯이 작성하도록 최대한 노력할 것이다.
 
 그러기 위해 다시 시작하는 것이니까!
 
-![야너도](https://user-images.githubusercontent.com/47416686/114289630-8ae53500-9ab4-11eb-9dd7-129955b92b04.jpeg)
+<br />
+<br />
+<br />
 
-## 그렇다면 새 기술 블로그는 왜 GitHub 블로그?
+# 그렇다면 새 기술 블로그는 왜 GitHub 블로그?
 
-![github](https://user-images.githubusercontent.com/47416686/114289641-9a647e00-9ab4-11eb-9014-b7656630a48e.png)
+<br />
 
+<div align="center">
+    <img src="./img/../../assets/img/posts/2021-04-11/github.png" alt="깃허브" width="400px" height="300px" />
+</div>
+
+<!-- ![github](https://user-images.githubusercontent.com/47416686/114289641-9a647e00-9ab4-11eb-9014-b7656630a48e.png) -->
+
+<br />
 사실 블로그를 쓸 수 있는 플랫폼들이 굉장히 많이 있었다.
 
 앞서 말한 티스토리를 제외하면
@@ -67,24 +78,31 @@ categories: [회고]
 - 깃허브 블로그 github.io
 - 노션 Notion
 
-나는 그 중에서 `**GitHub 블로그`를\*\* 선택했다.
+나는 그 중에서 <strong>`GitHub 블로그`</strong>를 선택했다.
 
 내가 깃허브 블로그를 선택한 이유 중 하나는 바로!
 
 - 다른 블로그 플랫폼 자체에서 제공하는 테마들이 맘에 들지 않았던 점과
 - 그리고 또 하나는 프론트엔드 개발자이기 때문에 나만의 블로그를 한번 만들어 보고 싶었다는 점 때문에 그랬던 것 같다.
 
-`**GitHub 블로그**`도 여러 테마들이 존재했었는데, 그중 \*\*\*\*맘에 드는 테마는 골라서 사용하고 있다.
+<strong>`GitHub 블로그`<strong>도 여러 테마들이 존재했었는데, 그중 맘에 드는 테마는 골라서 사용하고 있다.
 
 하지만 점차 테마는 내 입맛대로 커스텀이 될 것 같다.
 
 또 쓰면서 느낀 점은 글 올리는 데 정말 손이 많이 가고 초기 세팅 때문에 진입 장벽이 높다는 느낌이 들었다.
 
 이게 부담이라면 다른 블로그 플랫폼을 사용하는 것을 추천한다.
+<br />
+<br />
+<br />
 
-## 너 자신을 알라..
+# 너 자신을 알라..
 
-![너 자신을 알라](https://user-images.githubusercontent.com/47416686/114289659-bf58f100-9ab4-11eb-831d-f7909c56a7d7.jpeg)
+<br />
+<div align="center">
+    <img src="./img/../../assets/img/posts/2021-04-11/socrates.jpg" alt="개발자" width="400px" height="300px" />
+</div>
+<br />
 
 ### 나는 누구인가..?
 
@@ -98,9 +116,15 @@ categories: [회고]
 
 뭐 예를 들어 말을 차분하게 잘하고, 잘 챙겨주고, 근데 좀 답답한 것도 있다는 등등의 답변을 들으며, 서서히 나에 대해 알아가고 있는 중이다.
 
+<br />
+
 ### 나는 왜 개발을 시작하게 되었는가?
 
-![개발자](https://user-images.githubusercontent.com/47416686/114289666-caac1c80-9ab4-11eb-8baa-2ba33eab00ec.gif)
+<br/>
+<div align="center">
+    <img src="./img/../../assets/img/posts/2021-04-11/developer.gif" alt="개발자" width="400px" height="300px" />
+</div>
+<br/>
 
 나는 어렸을 때 노래 부르는 것을 굉장히 좋아했었다.
 
@@ -126,9 +150,11 @@ categories: [회고]
 
 그중에서 나는 취업이 잘 된다는 이유로 컴퓨터공학과에 입학을 하게 되었다.
 
-정말 단순하지만 내가 `**개발을 시작하게 된 이유**`이기도 하다.
+정말 단순하지만 내가 <strong>`개발을 시작하게 된 이유`</strong>이기도 하다.
 
 다녀보니 다행히도 그렇게 막 적성에 안 맞지도 않았다.
+
+<br />
 
 ### 그렇게 프론트엔드 개발자가 되다!
 
@@ -166,7 +192,9 @@ categories: [회고]
 
 완전 초기 스타트업이어서 걱정이 많이 됐지만, 개발자로서 많이 성장할 수 있을 것 같아 결국 인턴을 하게 되었다.
 
-그렇게 나는 `**프론트엔드 개발자**`가 되었다고 한다..
+그렇게 나는 <strong>`프론트엔드 개발자`</strong>가 되었다고 한다..
+
+<br />
 
 ## 끝으로..
 
@@ -186,4 +214,10 @@ categories: [회고]
 
 그게 무엇이 던 간에 그 순간을 만족하며 즐기고 싶다.
 
-![꽃길](https://user-images.githubusercontent.com/47416686/114289677-d992cf00-9ab4-11eb-91d2-c0ba42c198bb.gif)
+<br />
+
+<div align="center">
+    <img src="./img/../../assets/img/posts/2021-04-11/flowerLoad.gif" alt="꽃길" width="400px" height="400px"/>
+</div>
+
+<!-- ![꽃길](https://user-images.githubusercontent.com/47416686/114289677-d992cf00-9ab4-11eb-91d2-c0ba42c198bb.gif) -->
