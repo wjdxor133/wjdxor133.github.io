@@ -118,7 +118,7 @@ categories: [React, Design pattern]
 <br />
 <br />
 
-## 만약 아토믹 디자인 패턴으로 웹을 만든다면?
+## 만약 이 패턴으로 웹을 만든다면?
 
 <br />
 <div align="center">
