@@ -132,7 +132,6 @@ categories: [React, Design pattern]
 
 <br />
 <br />
-<br />
 
 ## ✔️ 참고
 
