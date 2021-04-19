@@ -12,12 +12,12 @@ url: "https://wjdxor133.github.io/" # the base hostname & protocol for your site
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    # - https://twitter.com/BenBalter
+    # - https://www.facebook.com/ben.balter
+    # - https://www.linkedin.com/in/BenBalter
+    # - https://plus.google.com/+BenBalter
+    - https://github.com/wjdxor133
+    # - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -30,9 +30,9 @@ tagline: >
 
 hero_img: posts/woosung_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: wjdxor1224@gmail.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+twitter_username: taek2 # replace with your_twitter_username or comment to remove link from footer
 github_username: wjdxor133 # replace with your_github_username or comment to remove link from footer
 instagram_username: taek2 # replace with your_instagram_username or comment to remove link from footer
 
