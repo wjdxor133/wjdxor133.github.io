@@ -226,7 +226,6 @@ categories: [회고]
 
 # 4. 앞으로의 계획
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/04-26/심슨%20짤.jpeg" alt="심슨" style="width: 500px;"/>
 </div>
@@ -252,12 +251,6 @@ categories: [회고]
 
 # 5. 회사의 메시지
 
-<br />
-<div align="center">
-    <img src="./../assets/img/posts/2021/04-26/감사했습니다.jpeg" alt="감사했습니다" style="width: 500px; height: 500px;"/>
-</div>
-<br />
-
 퇴사 전날에 회사 사람들과 같이 많은 이야기를 했다.
 
 사실 더 같이 했으면 좋겠다는 아쉬움이 크다고 말해주셨다.
@@ -269,5 +262,8 @@ categories: [회고]
 나중에 기회가 된다면 경력을 쌓고 제대로 된 테스트를 걸쳐 다시 입사하겠다고 했다. (하하.. 😄)
 
 <br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/04-26/감사했습니다.jpeg" alt="감사했습니다" style="width: 500px; height: 500px;"/>
+</div>
 <br />
 <br />
