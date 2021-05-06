@@ -11,17 +11,15 @@ categories: [회고]
 
 하루하루 많은 면접과 코딩 테스트, 과제와 전쟁을 치르고 있었다.
 
-<br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/전쟁.gif" alt="전쟁 중" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/전쟁.gif" alt="전쟁 중" style="width: 600px;"/>
 </div>
 <br />
 
 그렇게 점점 지쳐갈 무렵 `한 통의 카톡`이 왔다.
 
-<br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/전쟁%20끝.png" alt="전쟁 끝" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/전쟁%20끝.png" alt="전쟁 끝" style="width: 600px;"/>
 </div>
 <br />
 
@@ -62,11 +60,11 @@ categories: [회고]
 
 # 그렇다면 왜 거절했는가?
 
-이유를 말하기에 앞서, 넷플릭스의 퇴사 문화인 `"부검 메일"` \*\*\*\*의 양식을 통해서 순서대로 작성해보려고 한다.
+이유를 말하기에 앞서, 넷플릭스의 퇴사 문화인 `"부검 메일"` 의 양식을 통해서 순서대로 작성해보려고 한다.
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/netflix.png" alt="넷플릭스" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/netflix.png" alt="넷플릭스" style="width: 600px;"/>
 </div>
 <br />
 <br />
@@ -102,7 +100,7 @@ categories: [회고]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/머리때리는%20짤.jpeg" alt="머리팍!" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/머리때리는%20짤.jpeg" alt="머리팍!" style="width: 600px;"/>
 </div>
 <br />
 
@@ -112,7 +110,7 @@ categories: [회고]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/퇴사%20짤.jpeg" alt="퇴사" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/퇴사%20짤.jpeg" alt="퇴사" style="width: 600px;"/>
 </div>
 <br />
 <br />
@@ -176,6 +174,7 @@ categories: [회고]
 
 <br />
 <br />
+<br />
 
 # 3. 회사에 아쉬운 점
 
@@ -210,7 +209,7 @@ categories: [회고]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/설거지%20짤.gif" alt="설거지" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/설거지%20짤.gif" alt="설거지" style="width: 600px;"/>
 </div>
 <br />
 
@@ -227,7 +226,7 @@ categories: [회고]
 # 4. 앞으로의 계획
 
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/심슨%20짤.jpeg" alt="심슨" style="width: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/심슨%20짤.jpeg" alt="심슨" style="width: 600px;"/>
 </div>
 <br />
 
@@ -263,7 +262,7 @@ categories: [회고]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-26/감사했습니다.jpeg" alt="감사했습니다" style="width: 500px; height: 500px;"/>
+    <img src="./../assets/img/posts/2021/04-26/감사했습니다.jpeg" alt="감사했습니다" />
 </div>
 <br />
 <br />

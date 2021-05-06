@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "기술 블로그를 새롭게 시작하며..(feat 자아성찰)"
+title: "아토믹 디자인 패턴에 대해서..."
 featured-img: images/2021/04-19/atomic_lg
 categories: [React, Design pattern]
 ---
@@ -15,7 +15,7 @@ categories: [React, Design pattern]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-19/아토믹%20디자인%20패턴.png" alt="아토믹 디자인 패턴" style="width: 400px;"/>
+    <img src="./../assets/img/posts/2021/04-19/아토믹%20디자인%20패턴.png" alt="아토믹 디자인 패턴" style="width: 600px;"/>
 </div>
 <br />
 
@@ -88,7 +88,7 @@ categories: [React, Design pattern]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-19/organism.jpg" alt="유기체" style="width: 400px;"/>
+    <img src="./../assets/img/posts/2021/04-19/organism.jpg" alt="유기체" style="width: 600px;"/>
 </div>
 <br />
 
@@ -99,7 +99,7 @@ categories: [React, Design pattern]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-19/templates.jpg" alt="템플릿" style="width: 400px;"/>
+    <img src="./../assets/img/posts/2021/04-19/templates.jpg" alt="템플릿" style="width: 600px;"/>
 </div>
 <br />
 
@@ -111,7 +111,7 @@ categories: [React, Design pattern]
 
 <br />
 <div align="center">
-    <img src="./../assets/img/posts/2021/04-19/page.jpg" alt="유기체" style="width: 400px;"/>
+    <img src="./../assets/img/posts/2021/04-19/page.jpg" alt="유기체" style="width: 500px;"/>
 </div>
 <br />
 
