@@ -286,6 +286,3 @@ css props 방식 이외에도 styled-component와 같은 컴포넌트 방식으�
 [wjdxor133/Wecolas](https://github.com/wjdxor133/Wecolas)
 
 [wjdxor133/Wecolas-Refactoring](https://github.com/wjdxor133/Wecolas-Refactoring)
-
-<br />
-<br />
