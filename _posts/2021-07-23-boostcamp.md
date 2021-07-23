@@ -2,7 +2,7 @@
 layout: post
 title: "2021 부스트 캠프 지원하다"
 featured-img: images/2021/07-23/boostcamp_lg
-categories: [boostcamp]
+categories: [boostcamp, naver]
 ---
 
 # 네이버 부스트 캠프란 무엇인가?
@@ -10,6 +10,9 @@ categories: [boostcamp]
 `Naver Connect 재단에서 운영하는 부트 캠프`이며, 현재 (2021년도 기준) 6기 입과를 진행 중이다.
 
 커리큘럼은 `챌린지`, `멤버쉽` 과정으로 이루어져 있으며 챌린지(1 Month) 기간 동안 웹 개발에 대한 필수적 지식을 습득하며, 멤버쉽(4 Months) 기간 동안 도메인별 지식 및 기술을 자율적으로 활용해서 프로젝트를 진행할 수 있다.
+
+<br />
+<br />
 
 # 지원한 계기는?
 
@@ -19,13 +22,20 @@ categories: [boostcamp]
 
 클릭 후 자세히 내용들을 확인해 보았다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7961b225-85d5-4ee7-8b4d-c2cf7cc55501/스크린샷_2021-07-23_오후_2.18.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7961b225-85d5-4ee7-8b4d-c2cf7cc55501/스크린샷_2021-07-23_오후_2.18.07.png)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/진행%20절차.png" alt="진행 절차" />
+</div>
+<br />
 
 프로세스 절차가 총 `5단계`로 구성되어 있었다.
 
-그러고 바로 여기서 `합격을 좌우하는 것`은 `코딩테스트`겠구나.. 라는 생각을 했다.
+그러고 나서 바로 든 생각은 여기서 `합격을 좌우하는 것`은 `코딩테스트`겠구나.. 라는 생각을 했다.
 
 그렇게 부랴부랴 급하게 코딩테스트를 준비하게 되었다.
+
+<br />
+<br />
 
 # 사실 나는...
 
@@ -39,29 +49,45 @@ categories: [boostcamp]
 
 그래서 한 번 지원해보기로 했다.
 
+<br />
+<br />
+
 # 지원서 작성 부터... START!
 
-지원서는 총 4가지 항목으로 구성되어 있었다.
+지원서는 총 `4가지 항목`으로 구성되어 있었다.
 
-Q1. **어떤 계기로 개발자를 꿈꾸게 되었나요?**
+<br />
 
-Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
+**Q1. 어떤 계기로 개발자를 꿈꾸게 되었나요?**
+
+**Q2. 무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
+
+<br />
 
 등등 자세히 기억은 안 나지만 이런 식의 질문들이 있었다.
 
 그래서 나는 최대한 내가 직접 경험했던 내용들을 가지고 솔직하게 쓰려고 노력했던 것 같다.
 
+<br />
+<br />
+
 # 1차 코딩테스트 GO GO!
 
 1차 테스트와 관련되어 한 통의 메일을 받았다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc2a25de-b119-4059-bfbf-6d47162dabde/스크린샷_2021-07-23_오후_3.13.36.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc2a25de-b119-4059-bfbf-6d47162dabde/스크린샷_2021-07-23_오후_3.13.36.png)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/1차%20테스트%20안내.png" alt="1차 테스트 안내" />
+</div>
+<br />
 
 원래는 인턴이 끝나고 나서 바로 하루에 한 문제씩 프로그래머스에서 코딩테스트 문제를 풀면서 준비를 하고 있었기 때문에 코딩테스트가 엄청 낯설거나 그러진 않았던 것 같다.
 
 다만 난이도가 어느 정도인지 너무 궁금했었다.
 
 그래서 찾아본 결과 프로그래머스 Level 1 정도의 문제를 무난하게 풀 수 있다면 1차 테스트는 무난하게 통과할 수 있다고 했다.
+
+<br />
 
 ## 하지만 But...
 
@@ -71,7 +97,12 @@ Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
 
 결국 시간에 급급해 몇 가지 문제는 찍어버리고, 알고리즘 문제는 테스트 케이스 작성도 못해보고 시간이 만료가 되어 결국 그 상태로 제출해버렸다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68a5b42b-2efb-4435-980e-4d57e798766f/안돼.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68a5b42b-2efb-4435-980e-4d57e798766f/안돼.gif)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/안돼.gif" alt="안돼" />
+</div>
+<br />
+<br />
 
 ## 그렇게 시간이 흐른 뒤...
 
@@ -89,15 +120,26 @@ Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
 
 .
 
+<br />
+
 ## **짜잔! 🎉**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ed30ff5-456b-4cda-9ec2-391350c794f2/스크린샷_2021-07-23_오후_3.31.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ed30ff5-456b-4cda-9ec2-391350c794f2/스크린샷_2021-07-23_오후_3.31.54.png)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/1차%20테스트%20합격.png" alt="1차 테스트 합격" />
+</div>
+<br />
 
 그때 당시 테스트를 통과해서 너무 기뻤지만, 속으로는 어떻게 붙은 거지..? 라는 생각과 동시에
 
 그 당시 내 표정은 이랬다..
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18f57848-97e6-4ade-abcd-016f9e54cca9/말도_안돼.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18f57848-97e6-4ade-abcd-016f9e54cca9/말도_안돼.jpeg)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/말도%20안돼.jpeg" alt="말도 안돼" />
+</div>
+<br />
+<br />
 
 # 🔥 2차 코딩테스트..
 
@@ -109,21 +151,30 @@ Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
 
 이번에도 난이도가 너무 궁금한 나머지 찾아보게 되었는데 프로그래머스 Level2 문제를 무난하게 풀 수 있다면 합격할 수 있다고 한다.
 
-어떻게 준비해야 하나 고민하다가 우선 프로그래머스에 있는 고득점 Kit 위주로 문제를 풀어보면서 준비하기로 했다.
+하지만 필자는 사실 이제 막 Level1 문제를 다 풀고 겨우 Level2 수준의 문제를 푸는 수준이었다.
 
-완전 벼락치기였지만... ⚡️
+그래서 어떻게 준비해야 하나 고민하다가 우선 프로그래머스에 있는 고득점 Kit 위주로 문제를 풀어보면서 준비하기로 했다.
+
+그렇게 코딩테스트를 벼락치기로 진행했다... ⚡️
 
 그렇게 준비하고 2일 뒤 테스트를 보았다.
 
+문제를 보고 헉..
+
 역시나 나에겐 너무 어려웠다..
 
-사실 본인이 프로그래머스 Level2 수준의 문제를 완전히 풀지는 못했기 때문에 더 어렵게 느껴졌다.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/247dffca-3269-4790-9187-4cd4007d04c5/입틀막.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/247dffca-3269-4790-9187-4cd4007d04c5/입틀막.jpeg)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/입틀막.jpeg" alt="입틀막" />
+</div>
+<br />
+<br />
 
 ## 그러고 몇일 뒤...
 
 한 통의 메일이 왔다.
+
+<br />
 
 그것은 바로 합격..?
 
@@ -147,13 +198,20 @@ Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
 
 이 아닌 `탈락 메일`이었다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4b90205-8e20-40c2-8f24-31608020ab8d/스크린샷_2021-07-23_오후_3.47.24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4b90205-8e20-40c2-8f24-31608020ab8d/스크린샷_2021-07-23_오후_3.47.24.png)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/탈락%20메일.png" alt="탈락 메일" />
+</div>
+<br />
 
 어느 정도 예상은 하고 있어지만, 막상 메일을 받아 보니 기분이 좋진 않았다.
 
 사설 부트 캠프와 비교해 볼 수 있는 기회였는데.. 정말 아쉬웠다.
 
-# 📝 하지만 이번 부스트캠프를 지원하면서 느낀 점
+<br />
+<br />
+
+# 📝 2021 부스트 캠프를 지원하면서 느낀 점
 
 부스트 캠프 지원 이전에는 개발자라면 본인이 사용하는 기술을 가지고 사용만 할 줄 안다면 잘하는 개발자라고 생각했었다.
 
@@ -161,11 +219,19 @@ Q2. **무언가에 깊이 빠지거나 파고 들어본 적이 있나요?**
 
 정말 멤버쉽까진 아니더라도 챌린지까지 갔었더라면 더 좋았을 텐데라는 아쉬움이 남지만, 이번 계기로 더 자극을 받아서 열심히 해야겠다.
 
+<br />
+<br />
+
 ## **마지막으로!**
 
 **저와 같이 떨어진 모든 분들에게...**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87af3e9d-2808-4c29-9739-1c0af69bac13/너두_할수있어.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87af3e9d-2808-4c29-9739-1c0af69bac13/너두_할수있어.jpeg)
+<br />
+<div align="center">
+    <img src="./../assets/img/posts/2021/07-23/너두%20할수있어.jpeg" alt="너두 할수있아" />
+</div>
+<br />
+<br />
 
 ## ✔️ 참고
 
