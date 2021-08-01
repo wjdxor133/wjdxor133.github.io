@@ -60,10 +60,10 @@ export default UseEffect;
 
 ### 🔎 실행 결과
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/08-02/첫번째%20방법.gif" alt="첫번째 방법" />
 </div>
+<br />
 <br />
 
 ## 2. 의존성 배열이 비어 있는 경우
@@ -93,10 +93,10 @@ export default UseEffect;
 
 ### 🔎 실행 결과
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/08-02/두번째%20방법.gif" alt="두번째 방법" />
 </div>
+<br />
 <br />
 
 ## 3. 의존성 배열에 값이 있는 경우
@@ -141,10 +141,10 @@ export default UseEffect;
 
 ### 🔎 실행 결과
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/08-02/세번째%20방법.gif" alt="세번째 방법" />
 </div>
+<br />
 <br />
 
 ## 4. return 문이 존재할 때,
@@ -185,10 +185,10 @@ export default UseEffect;
 
 ### 🔎 실행 결과
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/08-02/네번째%20방법.gif" alt="네번째 방법" />
 </div>
+<br />
 <br />
 
 결과를 확인해보면, 맨 처음에 마운트 후 함수가 호출되고, 그 이후 return 문에 있는 함수가 먼저 호출되고 마운트 되는 것을 확인할 수 있다.
@@ -214,10 +214,9 @@ export default UseEffect;
 
 <br />
 <div align="center">
-    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러.mp4" type="video/mp4" />
+    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러.mp4" type="video/mp4" style="width: 550px; height: 450px;"/>
 </div>
 <br />
-
 <br />
 
 ### 🚫 Error 메시지 의미.
@@ -348,9 +347,8 @@ useEffect(() => {
 
 ### 🔎 실행 화면
 
-<br />
 <div align="center">
-    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러-해결.mp4" type="video/mp4"/>
+    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러-해결.mp4" type="video/mp4" style="width: 550px; height: 450px;" />
 </div>
 <br />
 <br />

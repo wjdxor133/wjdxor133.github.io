@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인턴 6개월 부검 블로그.."
-featured-img: images/2021/04-26/Netflix_lg
+featured-img: images/2021/04-26/netflix_lg
 categories: [회고]
 ---
 
