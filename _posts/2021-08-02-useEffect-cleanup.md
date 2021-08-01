@@ -204,19 +204,9 @@ export default UseEffect;
 
 이번에 고피자 프로젝트를 리팩토링을 하는 과정에서 알수 없는 에러 메시지를 보게 되었다.
 
-<br />
 <div align="center">
     <img src="./../assets/img/posts/2021/08-02/클린업%20콘솔%20에러.png" alt="1차 테스트 안내" />
 </div>
-<br />
-
-### 🔎 실행 화면
-
-<br />
-<div align="center">
-    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러.mp4" type="video/mp4" style="width: 550px; height: 450px;"/>
-</div>
-<br />
 <br />
 
 ### 🚫 Error 메시지 의미.
@@ -231,6 +221,11 @@ export default UseEffect;
 
 즉, `제거된 컴포넌트에서는 상태 업데이트를 할 수 없다는 뜻`이다.
 
+### 🔎 실행 화면
+
+<div align="center">
+    <video autoPlay loop muted src="./../assets/img/posts/2021/08-02/클린업-에러.mp4" type="video/mp4" style="width: 550px; height: 450px;"/>
+</div>
 <br />
 <br />
 
